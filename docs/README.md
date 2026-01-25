@@ -2,8 +2,7 @@
 
 A curated collection of plugins, scripts, and tools for OBS Studio.
 
-🌐 **Live Website**: [https://pralhad-nasane.github.io/awesome-obs-collections/](https://pralhad-nasane.github.io/awesome-obs-collections/)
-
+🌐 **Live Website**: [https://pralhad-nasane.github.io/awesome-obs/](https://pralhad-nasane.github.io/awesome-obs/)
 
 ## About
 
@@ -12,8 +11,6 @@ This website was built using **AI-powered development**:
 - **AI Model**: Claude Opus 4.5 by Anthropic
 - **IDE**: Google Antigravity
 - **Process**: Created through natural language prompts and reference images - describing what I wanted and how I wanted it, while the AI handled the implementation
-
-
 
 ## 🚀 Quick Start
 
@@ -61,6 +58,7 @@ docs/
 ## 🎨 Design Tokens
 
 All design tokens are in `src/shared/config/variables.css`:
+
 - Colors, typography, spacing
 - Shadows, borders, transitions
 - Gradients
@@ -83,7 +81,6 @@ Edit `src/entities/resource/data/resources.json`:
 ## Development
 
 No build step required - pure HTML, CSS, and vanilla JavaScript.
-
 
 ---
 
