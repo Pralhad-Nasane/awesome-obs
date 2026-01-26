@@ -60,7 +60,7 @@ This repository focuses **exclusively** on high-quality, open-source software re
 - [Replay Source](https://github.com/exeldro/obs-replay-source) - Instant replay playback with buffer, perfect for gaming and sports streams.
 - [DistroAV (NDI)](https://github.com/DistroAV/DistroAV) - Send/receive high-quality video over IP using NDI protocol for network video transmission and dual-PC streaming setups.
 - [OBS Teleport](https://github.com/fzwoch/obs-teleport) - Open-source NDI alternative for network video transmission between OBS instances.
-- [RTSP Server](https://github.com/iamscottxu/obs-rtspserver) - RTSP server plugin for streaming OBS output to RTSP clients.
+- [RTSP Server](https://github.com/iamscottxu/obs-rtspserver) - Plugin for streaming OBS output to RTSP clients.
 - [Branch Output](https://github.com/OPENSPHERE-Inc/branch-output) - Transmit individual sources via RTMP/SRT independently for multi-destination streaming.
 - [Virtual Display](https://github.com/MolotovCherry/virtual-display-rs) - Create virtual displays for extended desktop, useful for VR and multi-monitor streaming setups.
 
@@ -91,7 +91,7 @@ This repository focuses **exclusively** on high-quality, open-source software re
 - [Win-Capture-Audio](https://github.com/bozbez/win-capture-audio) - Capture audio from specific applications to isolate audio from individual programs instead of entire system.
 - [OBS-ASIO](https://github.com/Andersama/obs-asio) - Native ASIO driver support for OBS providing low-latency audio for musicians.
 - [Waveform](https://github.com/phandasm/waveform) - Real-time audio spectrum analyzer and waveform visualizer.
-- [GStreamer](https://github.com/fzwoch/obs-gstreamer) - GStreamer integration for advanced audio/video processing pipelines.
+- [GStreamer](https://github.com/fzwoch/obs-gstreamer) - Integration for advanced audio/video processing pipelines.
 - [Audio Monitor](https://github.com/exeldro/obs-audio-monitor) - Advanced audio monitoring filter for routing audio to specific output devices.
 - [Spectralizer](https://github.com/univrsal/spectralizer) - Beautiful audio visualizer inside OBS (Archived - maintainer suggests "Waveform" as replacement).
 - [Tuna](https://github.com/univrsal/tuna) - Real-time "Now Playing" music info from media players including Spotify, VLC, MPD, and more.
