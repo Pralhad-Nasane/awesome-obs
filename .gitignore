@@ -36,6 +36,8 @@ Desktop.ini
 .env.*.local
 *.env
 
+.venv/
+
 # Logs
 logs/
 *.log
@@ -72,3 +74,5 @@ temp/
 
 
 *scripts
+
+repo-finder/
