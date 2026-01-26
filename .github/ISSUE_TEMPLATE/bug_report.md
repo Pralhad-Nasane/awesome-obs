@@ -3,13 +3,15 @@ name: Bug Report
 about: Report a broken link or incorrect information
 title: "[BUG] "
 labels: bug
-assignees: ''
+assignees: "Pralhad-Nasane"
 ---
 
 ## Description
+
 A clear description of the issue.
 
 ## What's Wrong?
+
 - [ ] Broken link
 - [ ] Incorrect information
 - [ ] Outdated resource
@@ -17,9 +19,10 @@ A clear description of the issue.
 
 ## Details
 
-**Resource Name:** 
+**Resource Name:**
 **Section:** (e.g., Plugins - Streaming & Production)
-**Issue:** 
+**Issue:**
 
 ## Additional Info
+
 Any other context or screenshots.

@@ -221,3 +221,7 @@ Please ensure the resource:
 - Follows our format: `- [Name](url) - Description.`
 
 Read our full [Contributing Guidelines](contributing.md) for more details.
+
+---
+
+If you have any questions about this curated list, feel free to contact [@PralhadNasane](https://www.linkedin.com/in/pralhadnasane) on LinkedIn.
