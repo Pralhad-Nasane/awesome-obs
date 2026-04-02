@@ -224,4 +224,5 @@ Read our full [Contributing Guidelines](contributing.md) for more details.
 
 ---
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
 If you have any questions about this curated list, feel free to contact [@PralhadNasane](https://www.linkedin.com/in/pralhadnasane) on LinkedIn.
