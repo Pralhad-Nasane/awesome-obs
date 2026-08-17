@@ -46,6 +46,7 @@
 - [Aitum Vertical](https://github.com/aitum/obs-vertical-canvas) - Adds a vertical canvas (9:16) perfect for TikTok, YouTube Shorts, and Instagram Reels.
 - [Aitum Multistream](https://github.com/aitum/obs-aitum-multistream) - Integrated multi-platform streaming inside OBS.
 - [Advanced Scene Switcher](https://github.com/WarmUpTill/SceneSwitcher) - Powerful automation tool for rule-based automated scene switching in complex workflows.
+- [Flowspire](https://github.com/DavidClaudeAI/Flowspire) - Organic auto-director that switches the shot based on who is speaking, for multi-speaker live productions.
 - [Source Dock](https://github.com/exeldro/obs-source-dock) - Pop any source out into a movable dock.
 - [Downstream Keyer](https://github.com/exeldro/obs-downstream-keyer) - Add persistent overlays across all scenes for consistent branding.
 - [Directory Watch Media](https://github.com/exeldro/obs-dir-watch-media) - Auto-update media source based on folder contents.
