@@ -171,6 +171,7 @@ _(All open-source and compatible through OBS WebSocket.)_
 
 - [NohBoard](https://github.com/ThoNohT/NohBoard) - Standalone keyboard visualization tool as an alternative to Input Overlay plugin.
 - [NOALBS](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) - Automatically switch scenes based on stream bitrate to handle connection issues.
+- [StreamerSize](https://streamersize.com) - Free calculator for streaming bitrate, video file size, upload time and storage. Supports Twitch, YouTube, Kick and OBS.
 - [TikTok Stream Key Generator](https://github.com/Loukious/TikTokStreamKeyGenerator) - Direct TikTok stream key generation for OBS.
 
 ## Themes & Distributions
