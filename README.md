@@ -1,7 +1,6 @@
 # Awesome OBS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-Open%20Source-blue?style=flat-square)](https://obsproject.com/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgray?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 🌐 **Official Website**: [https://pralhad-nasane.github.io/awesome-obs/](https://pralhad-nasane.github.io/awesome-obs/)
 
