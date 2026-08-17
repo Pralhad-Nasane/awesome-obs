@@ -162,22 +162,10 @@ _(All open-source and compatible through OBS WebSocket.)_
 
 ### WebSocket Libraries
 
-#### JavaScript/TypeScript
-
 - [obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Official JavaScript/Node.js library for obs-websocket.
-
-#### Python
-
 - [obs-websocket-py](https://github.com/Elektordi/obs-websocket-py) - Python library for obs-websocket v4 protocol.
 - [obsws-python](https://github.com/aatikturk/obsws-python) - Modern Python SDK for obs-websocket v5.
-
-#### .NET/C#
-
 - [obs-websocket-dotnet](https://github.com/BarRaider/obs-websocket-dotnet) - C# library for obs-websocket integration.
-
-#### Rust
-
-- [obws](https://github.com/dnaka91/obws) - Async Rust library for obs-websocket remote control.
 
 ### Utilities
 
