@@ -1,10 +1,10 @@
+# Awesome OBS Studio [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <div align="center">
 
 <a href="https://obsproject.com">
 	<img src="assets/banner.png" width="500" alt="Awesome OBS Studio">
 </a>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Open-source software for video recording and live streaming.
 
@@ -180,4 +180,4 @@ _(All open-source and compatible through OBS WebSocket.)_
 
 ## Contributing
 
-[Contributions welcome!](contributing.md)
+[Contributions welcome!](contributing.md).
