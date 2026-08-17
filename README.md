@@ -1,12 +1,14 @@
-# Awesome OBS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-[![OBS Studio](https://img.shields.io/badge/OBS%20Studio-Open%20Source-blue?style=flat-square)](https://obsproject.com/)
+<a href="https://obsproject.com">
+	<img src="assets/banner.png" width="500" alt="Awesome OBS Studio">
+</a>
 
-🌐 **Official Website**: [https://pralhad-nasane.github.io/awesome-obs/](https://pralhad-nasane.github.io/awesome-obs/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **open-source** plugins, scripts, tools, and themes for OBS Studio.
+> Open-source software for video recording and live streaming.
 
-This repository focuses **exclusively** on high-quality, open-source software related to OBS Studio.
+</div>
 
 ## Contents
 
@@ -29,8 +31,7 @@ This repository focuses **exclusively** on high-quality, open-source software re
   - [Remote Control & Automation](#remote-control--automation)
   - [WebSocket Libraries](#websocket-libraries)
   - [Utilities](#utilities)
-- [OBS Themes](#obs-themes)
-- [OBS Forks](#obs-forks)
+- [Themes & Distributions](#themes--distributions)
 
 ## Plugins
 
@@ -92,7 +93,6 @@ This repository focuses **exclusively** on high-quality, open-source software re
 - [Waveform](https://github.com/phandasm/waveform) - Real-time audio spectrum analyzer and waveform visualizer.
 - [GStreamer](https://github.com/fzwoch/obs-gstreamer) - Integration for advanced audio/video processing pipelines.
 - [Audio Monitor](https://github.com/exeldro/obs-audio-monitor) - Advanced audio monitoring filter for routing audio to specific output devices.
-- [Spectralizer](https://github.com/univrsal/spectralizer) - Beautiful audio visualizer inside OBS (Archived - maintainer suggests "Waveform" as replacement).
 - [Tuna](https://github.com/univrsal/tuna) - Real-time "Now Playing" music info from media players including Spotify, VLC, MPD, and more.
 
 ### Camera & Video Sources
@@ -185,42 +185,11 @@ _(All open-source and compatible through OBS WebSocket.)_
 - [NOALBS](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) - Automatically switch scenes based on stream bitrate to handle connection issues.
 - [TikTok Stream Key Generator](https://github.com/Loukious/TikTokStreamKeyGenerator) - Direct TikTok stream key generation for OBS.
 
-## OBS Themes
+## Themes & Distributions
 
 - [Catppuccin](https://github.com/catppuccin/obs) - Soothing pastel theme in Latte, Frappé, Macchiato, Mocha variants as part of popular Catppuccin design system.
-
-## OBS Forks
-
-Specialized distributions based on OBS Studio core:
-
 - [Prism Live Studio](https://github.com/naver/prism-live-studio) - Consumer-focused feature-rich fork with beauty effects, built-in multistreaming, and simplified interface.
 
 ## Contributing
 
-We welcome community contributions! Help us keep this list awesome.
-
-### How to Contribute
-
-**Found a broken link or issue?**  
- [Report a Bug](https://github.com/Pralhad-Nasane/awesome-obs/issues/new?template=bug_report.md)
-
-**Want to add a new resource?**  
- [Suggest a Resource](https://github.com/Pralhad-Nasane/awesome-obs/issues/new?template=feature_request.md)
-
-**Ready to submit changes?**  
- [Create a Pull Request](https://github.com/Pralhad-Nasane/awesome-obs/compare)
-
-### Guidelines
-
-Please ensure the resource:
-
-- Is open-source (GitHub/GitLab)
-- Is actively maintained or still useful
-- Is high quality and relevant to OBS Studio
-- Follows our format: `- [Name](url) - Description.`
-
-Read our full [Contributing Guidelines](contributing.md) for more details.
-
----
-
-If you have any questions about this curated list, feel free to contact [@PralhadNasane](https://www.linkedin.com/in/pralhadnasane) on LinkedIn.
+[Contributions welcome!](contributing.md)
