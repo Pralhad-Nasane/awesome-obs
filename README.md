@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://obsproject.com">
-	<img src="assets/banner.png" width="500" alt="Awesome OBS Studio">
+	<img src="assets/banner.png" width="95%" alt="Awesome OBS Studio">
 </a>
 
 > Open-source software for video recording and live streaming.
