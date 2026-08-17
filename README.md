@@ -112,6 +112,7 @@
 
 ### Overlays & Browser Sources
 
+- [All-Chat](https://github.com/caesarakalaeii/all-chat) - Open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord chat into a single OBS browser source. Renders 7TV/BTTV/FFZ emotes natively.
 - [Pogly Standalone](https://github.com/PoglyApp/pogly-standalone) - Real-time collaborative stream overlay editor with SpacetimeDB backend.
 - [Bongobs Cat Plugin](https://github.com/a1928370421/Bongobs-Cat-Plugin) - Bongo Cat animation overlay synchronized with keyboard/mouse input.
 - [Meme Box](https://github.com/negue/meme-box) - Manage and trigger media clips via browser source interface.
