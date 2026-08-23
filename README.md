@@ -119,6 +119,7 @@
 
 ### Accessibility & Monitoring
 
+- [Live Source Preview](https://github.com/Kiddabob/LIVE-Source-Preview) - Shows live previews for hidden OBS sources directly in the Sources list.
 - [OBS Color Monitor (Scopes)](https://github.com/norihiro/obs-color-monitor) - Professional color grading tools with waveform, vectorscope, and parade scopes.
 
 ## Scripts
