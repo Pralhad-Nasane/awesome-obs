@@ -103,6 +103,7 @@
 - [Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) - Spout2 integration for efficient GPU texture sharing between applications on Windows.
 - [OBS Kinect](https://github.com/SirLynix/obs-kinect) - Use Kinect depth sensors for virtual green screen and advanced body detection.
 - [iOS Camera Source](https://github.com/wtsnz/obs-ios-camera-source) - High-quality H.264 video streaming from iPhone cameras over USB.
+- [TetherCam](https://github.com/Kanevry/tethercam) - Wired iPhone camera for OBS over USB with hardware HEVC and no Wi-Fi or pairing.
 - [OpenVR Input](https://github.com/baffler/OBS-OpenVR-Input-Plugin) - Capture OpenVR/SteamVR mirror in full resolution for VR streaming.
 
 ### Input & Interaction
