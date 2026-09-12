@@ -54,6 +54,7 @@
 - [SE.Live (StreamElements)](https://github.com/StreamElements/obs-streamelements-core) - All-in-one solution integrating Twitch/YouTube/Facebook chat, alerts, and activity feeds.
 - [VDO.Ninja](https://github.com/steveseguin/vdo.ninja) - Bring remote video feeds into OBS via WebRTC with minimal latency for remote collaboration.
 - [Project Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - Self-contained OBS → FTL → WebRTC pipeline for sub-second latency browser streaming.
+- [InstantClone](https://github.com/soulhackzlol/instantclone) - Lightweight, dynamic RTMP delay proxy to prevent stream sniping without restarting OBS.
 
 ### Recording & Output
 
