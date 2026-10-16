@@ -161,6 +161,7 @@ _(All open-source and compatible through OBS WebSocket.)_
 - [OBS Blade](https://github.com/Kounex/obs_blade) - Flutter-based mobile app for controlling OBS via WebSocket from Android/iOS.
 - [OBS-Web](https://github.com/Niek/obs-web) - Browser-based remote control panel with touch-friendly control from mobile devices.
 - [OSC for OBS](https://github.com/jshea2/OSC-for-OBS) - Open Sound Control protocol integration for hardware controller support.
+- [OBS Dynamics](https://github.com/Blackoune/OBS-Dynamics) - Windows app that switches OBS scenes from the running game and on-screen state.
 
 ### WebSocket Libraries
 
