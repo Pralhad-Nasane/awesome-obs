@@ -116,6 +116,7 @@
 - [Pogly Standalone](https://github.com/PoglyApp/pogly-standalone) - Real-time collaborative stream overlay editor with SpacetimeDB backend.
 - [Bongobs Cat Plugin](https://github.com/a1928370421/Bongobs-Cat-Plugin) - Bongo Cat animation overlay synchronized with keyboard/mouse input.
 - [Meme Box](https://github.com/negue/meme-box) - Manage and trigger media clips via browser source interface.
+- [Fut Overlay](https://futoverlay.com) - Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial available.
 
 ### Accessibility & Monitoring
 
