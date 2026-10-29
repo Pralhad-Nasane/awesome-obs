@@ -1,71 +1,109 @@
 # Contributing to Awesome OBS
 
-Thank you for your interest in contributing! Please take a moment to review this document to make the contribution process easy and effective for everyone.
+Thanks for helping improve Awesome OBS! We welcome submissions that help OBS Studio creators and developers find reliable, high-quality open-source tools.
 
-## Adding to this list
-
-Please ensure your pull request adheres to the following guidelines:
-
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Use the following format: `- [Name](link) - Description.`
-- Descriptions should:
-  - Start with a capital letter
-  - End with a period
-  - Not start with "A" or "An"
-  - Not repeat the item name in the description
-  - Be concise and clear (aim for 80 characters or less)
-- New categories or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and include a link to the package and why it should be included.
-
-## Quality Standards
-
-Only awesome resources should be added to this list. After a project is added, it should:
-
-- Generally useful to the OBS community
-- Actively maintained (or is a finished project that still provides value)
-- Stable and well-documented
-- Open source (preferably with a permissive license)
-- Provide significant value to OBS Studio users
-
-You might want to add:
-
-- Plugins that extend OBS functionality
-- Scripts (Lua or Python) that automate workflows
-- Tools and utilities that complement OBS
-- Educational resources if they are truly exceptional
-- Themes that significantly enhance the UI
-
-Do not add:
-
-- Overlay graphics or scene collections
-- Commercial/closed-source software
-- Abandoned or unmaintained projects
-- Low-quality or trivial projects
-- Duplicates or very similar projects
-
-## How to Contribute
-
-1. **Fork** this repository
-2. **Create a new branch** for your addition
-3. **Add** your resource to the appropriate section in alphabetical order
-4. **Ensure** it follows the format: `- [Name](url) - Description.`
-5. **Run** `npx awesome-lint README.md` to check for errors
-6. **Submit** a pull request with a clear title and description
-
-## Updating your Pull Request
-
-Sometimes maintainers will ask you to edit your pull request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome list guidelines.
-
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write-up on how to change a pull request, and the different ways you can do that.
-
-## Questions?
-
-Feel free to [open an issue](https://github.com/Pralhad-Nasane/awesome-obs/issues/new) or contact [@PralhadNasane](https://www.linkedin.com/in/pralhadnasane) on LinkedIn.
+Please review these guidelines before opening a pull request.
 
 ---
 
-Thank you for helping make this resource better for the OBS community! 🎉
+## Inclusion Criteria
+
+Every submission must meet these standards:
+
+### 1. Open Source
+The software being listed must have publicly accessible source code under a valid, [OSI-approved open-source license](https://opensource.org/licenses) (such as MIT, Apache-2.0, GPL, or BSD).
+
+* ✅ **Valid open-source license required**: The software must be covered by a valid, OSI-approved open-source license. A public repository without a verifiable license does not qualify.
+* ✅ **Permissive and copyleft**: Both copyleft (GPL, AGPL) and permissive (MIT, Apache, BSD) licenses are equally welcome.
+* ✅ **Free and paid open source**: Both free and paid open-source software are allowed.
+* ❌ **No closed-source software**: Closed-source software is excluded, even if it is free to use or offers a free tier or trial. See [What Does Not Belong](#what-does-not-belong).
+
+### 2. Quality, Maintenance, and Compatibility
+* **Directly relevant to OBS Studio**: Plugins, scripts, docks, filters, themes, and external tools that directly integrate with or support OBS workflows.
+* **Maintained and working**: The project must be maintained and functional. Archived, abandoned, or broken projects are not accepted.
+* **OBS Studio compatibility**: Plugins, scripts, and integrations must work with at least one currently supported stable version of OBS Studio. Prefer projects compatible with the latest stable release. External tools that do not depend on a specific OBS version are exempt.
+* **Documentation**: Clear installation instructions and useful documentation are preferred. English documentation is preferred, but other languages are also accepted.
+
+---
+
+## What Does Not Belong
+
+Do not submit:
+
+* ❌ Closed-source or proprietary software, regardless of price, free tiers, or trial availability.
+* ❌ Archived, abandoned, or broken projects.
+* ❌ Static overlay graphics, stream overlays without code, or raw scene collection JSON files.
+* ❌ Trivial or proof-of-concept projects that offer little practical value.
+* ❌ Duplicates of existing entries or forks without significant new functionality.
+
+---
+
+## Entry Guidelines
+
+### Entry Format
+
+Use this format for every entry:
+
+```markdown
+- [Project Name](URL) - Short factual description.
+```
+
+### Choosing the Link
+
+Link to the most useful official project page. Readers must be able to find and verify the source code and its open-source license.
+
+You can link to any of the following:
+
+- **Source code repository:** Link directly to the GitHub, GitLab, or other source repository.
+- **Official project website:** Link to the website if it provides access to the source code.
+- **Official documentation:** Link to the documentation if it clearly links to the source repository.
+
+**Examples:**
+
+```markdown
+- [Sample Tool](https://github.com/OWNER/REPOSITORY) - Automates scene switching based on audio levels.
+- [Example Overlay](https://PROJECT-WEBSITE) - Displays live chat and alerts in browser sources.
+- [Demo Integration](https://DOCUMENTATION-PAGE) - Connects hardware controllers to OBS Studio.
+```
+
+> *These examples are illustrative only. Replace the names, URLs, and descriptions with those of the actual project.*
+
+> [!NOTE]
+> If the entry links to a project website or documentation rather than the source repository, include the source repository and license links in your pull request description so reviewers can verify them.
+
+
+### Description Style
+* Start with a capital letter.
+* End with a period (`.`).
+* Do not start with `"A"` or `"An"`.
+* Do not repeat the project name in the description.
+* Keep it short, factual, and concise (aim for 80 characters or fewer).
+* Describe what the tool does, not how great it is. Avoid promotional language or buzzwords (e.g., "fastest", "best", "powerful", "game-changing").
+* Do not include pricing tags, labels, currency symbols, or status badges.
+
+### Placement & Ordering
+* Add the entry to the most appropriate section or subsection.
+* **Sort alphabetically** by project name within the chosen section.
+* If you believe a new section is needed, please [open an issue](https://github.com/Pralhad-Nasane/awesome-obs/issues/new) to discuss it before submitting a PR.
+
+---
+
+## How to Submit
+
+1. **Check for duplicates**: Search the [README](README.md) and [open pull requests](https://github.com/Pralhad-Nasane/awesome-obs/pulls) to make sure the resource has not already been submitted.
+2. **Fork and branch**: Fork the repository and create a new branch for your addition:
+   ```bash
+   git checkout -b add-project-name
+   ```
+3. **Add your entry**: Insert the entry in alphabetical order in `README.md`.
+4. **Validate**: Run the repository linter locally to check for formatting errors:
+   ```bash
+   npx awesome-lint README.md
+   ```
+5. **Open a pull request**: Submit a pull request with a descriptive title (e.g., `Add ProjectName to Category`). Fill out the pull request checklist completely and include a link to the project's source code and license if not obvious from the entry URL.
+
+---
+
+## Questions?
+
+If you have questions about whether a tool qualifies, feel free to [open an issue](https://github.com/Pralhad-Nasane/awesome-obs/issues/new).
