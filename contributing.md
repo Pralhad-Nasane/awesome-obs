@@ -84,9 +84,7 @@ You can link to any of the following:
 ### Placement & Ordering
 * Add the entry to the most appropriate section or subsection.
 * **Sort alphabetically** by project name within the chosen section.
-* If you believe a new section is needed, please [open an issue](https://github.com/Pralhad-Nasane/awesome-obs/issues/new) to discuss it before submitting a PR.
-
----
+* **Proposing a new section**: If you believe a new section is needed, you may propose it directly in your pull request. Include the proposed section name and explain why it is needed. The maintainer will review the proposal and decide whether to create the new section or place the resource in an existing section.
 
 ## How to Submit
 

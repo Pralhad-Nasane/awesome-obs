@@ -1,28 +1,51 @@
 ---
 name: Bug Report
-about: Report a broken link or incorrect information
+about: Report a problem with a resource listed in Awesome OBS
 title: "[BUG] "
 labels: bug
 assignees: "Pralhad-Nasane"
 ---
 
-## Description
+*Before submitting, please check [open issues](https://github.com/Pralhad-Nasane/awesome-obs/issues) to make sure this problem has not already been reported.*
 
-A clear description of the issue.
+## Problem Type
 
-## What's Wrong?
+- [ ] Broken or dead link
+- [ ] Archived or abandoned repository
+- [ ] Compatibility issue with OBS Studio
+- [ ] Inaccurate or outdated description
+- [ ] Licensing or closed-source issue
+- [ ] Other (please describe below)
 
-- [ ] Broken link
-- [ ] Incorrect information
-- [ ] Outdated resource
-- [ ] Other (please specify)
-
-## Details
+## Resource Details
 
 **Resource Name:**
-**Section:** (e.g., Plugins - Streaming & Production)
-**Issue:**
+**Resource URL:** (as listed in README)
+**Section:** (if known)
 
-## Additional Info
+## Description of the Problem
 
-Any other context or screenshots.
+A clear and concise description of the issue.
+
+## Expected Behaviour
+
+What you expected to happen or what the correct information should be.
+
+## Actual Behaviour
+
+What actually happens (e.g., 404 error, plugin fails to load, repository is archived).
+
+## Steps to Reproduce (if applicable)
+
+1. Go to '...'
+2. Install / Run '...'
+3. See error '...'
+
+## Environment (if relevant)
+
+- **OBS Studio Version:** (e.g., 30.2.3)
+- **Operating System:** (e.g., Windows 11, macOS 14, Ubuntu 24.04)
+
+## Additional Context
+
+Add any other context, logs, or screenshots here.

@@ -15,6 +15,8 @@ Please include a summary of the changes and which category they belong to.
 
 **Name:**
 **URL:**
+**Source Repository URL:** (if different from entry URL)
+**License:** (OSI-approved license, e.g., MIT, Apache-2.0, GPL-2.0)
 **Category:**
 **Description:**
 
@@ -22,17 +24,18 @@ Please include a summary of the changes and which category they belong to.
 
 Please check all that apply:
 
-- [ ] I have read the [Contributing Guidelines](../contributing.md)
+- [ ] I have read the [Contributing Guidelines](https://github.com/Pralhad-Nasane/awesome-obs/blob/main/contributing.md)
 - [ ] I have checked for duplicate resources
-- [ ] The resource is open-source (GitHub/GitLab)
-- [ ] The resource is actively maintained or still useful
+- [ ] The resource has publicly accessible source code under a valid, OSI-approved open-source license
+- [ ] The project is maintained, functional, and not archived
+- [ ] If applicable, the project works with at least one currently supported stable version of OBS Studio.
 - [ ] Format follows: `- [Name](url) - Description.`
 - [ ] Description starts with capital letter and ends with period
 - [ ] Description does not start with "A" or "An"
 - [ ] Description does not repeat the item name
-- [ ] I have run `npx awesome-lint README.md` and it passes
-- [ ] All links are working
 - [ ] The change is in alphabetical order within its category
+- [ ] All links are working
+- [ ] I have run `npx awesome-lint README.md` and it passes
 
 ## Why should this be included?
 
