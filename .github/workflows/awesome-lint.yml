@@ -2,27 +2,26 @@ name: Awesome Lint
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main ]
   pull_request:
-    branches: [ main, master ]
+    branches: [ main ]
   workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   lint:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-        
-    - name: Run awesome-lint
-      run: npx awesome-lint README.md
-      
-    - name: Success message
-      if: success()
-      run: echo "✅ Awesome-lint passed! README is compliant."
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Run awesome-lint
+        run: npx awesome-lint README.md
