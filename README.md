@@ -81,6 +81,7 @@
 
 ### AI & Machine Learning
 
+- [AI Assistant for OBS Studio](https://github.com/AllegroMoltoV/ai-assistant-for-obs) - Dock chat that diagnoses stream problems from OBS state and logs via OpenAI.
 - [Background Removal](https://github.com/royshil/obs-backgroundremoval) - AI-powered virtual green screen using neural network segmentation to remove backgrounds without physical green screen.
 - [LocalVocal](https://github.com/royshil/obs-localvocal) - Fully offline Whisper-based subtitles and translation with no cloud required, supporting multiple languages.
 - [OBS Captions Plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed captioning using Google Speech Recognition API.
