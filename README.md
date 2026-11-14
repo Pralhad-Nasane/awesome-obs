@@ -120,7 +120,7 @@
 
 ### Accessibility & Monitoring
 
-- [Loudness Balance Monitor](https://github.com/AllegroMoltoV/obs-loudness-balance-monitor) - Dock that rates voice-to-BGM loudness balance and clipping risk in three colors.
+- [Loudness Balance Monitor](https://github.com/AllegroMoltoV/loudness-balance-monitor) - Dock that rates voice-to-BGM loudness balance and clipping risk in three colors.
 - [OBS Color Monitor (Scopes)](https://github.com/norihiro/obs-color-monitor) - Professional color grading tools with waveform, vectorscope, and parade scopes.
 
 ## Scripts
