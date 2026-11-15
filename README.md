@@ -121,6 +121,7 @@
 ### Accessibility & Monitoring
 
 - [OBS Color Monitor (Scopes)](https://github.com/norihiro/obs-color-monitor) - Professional color grading tools with waveform, vectorscope, and parade scopes.
+- [StreamoScope](https://github.com/tjnk24/streamoscope) - Dock with live stats for every running stream output, native or from plugins such as obs-multi-rtmp, side by side.
 
 ## Scripts
 
